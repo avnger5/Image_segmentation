@@ -1,0 +1,1 @@
+python train.py --num_epochs 3 --h_flip 1 --v-flip 1 --rotation 1 --model Encoder_Decoder
